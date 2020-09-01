@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I am really into Astrophotography, climbing and skiing!
 - 📫 How to reach me: feel free to [email](mailto:ramimouro@gmail.com) me!
 
-Check out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-Blue&link=https://www.linkedin.com/in/rami-mouro/)](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
+Check out my [LinkedIn](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
 <!--
 **ramalamadingdong/ramalamadingdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
