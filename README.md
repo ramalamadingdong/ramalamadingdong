@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🤔 I’m looking for help with some fun C++ or Python Projects
+- 💬 Ask me about Autonomous drifting research
+- ⚡ Fun fact: I am really into Astrophotography, climbing and skiing!
+- 📫 How to reach me: feel free to email me!
 <!--
 **ramalamadingdong/ramalamadingdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
