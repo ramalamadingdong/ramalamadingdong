@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤔 I’m looking for help with some fun C++ or Python Projects
-- 💬 Ask me about Autonomous drifting research
+- 💬 Ask me about Autonomous drifting research or Drone Autonomy Project
 - ⚡ Fun fact: I am really into Astrophotography, climbing and skiing!
 - 📫 How to reach me: feel free to email me!
 
