@@ -3,6 +3,7 @@
 - 💬 Ask me about Autonomous drifting research or Drone Autonomy Project
 - ⚡ Fun fact: I am really into Astrophotography, climbing and skiing!
 - 📫 How to reach me: feel free to [email](mailto:ramimouro@gmail.com) me!
+- Buy me a beer / coffee buymeacoffee.com/ramalamadingdon
 
 Check out my [LinkedIn](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
 <!--
