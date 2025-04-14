@@ -1,11 +1,9 @@
 ### Hi there 👋
-- 🤔 I’m looking for help with some fun C++ or Python Projects
-- 💬 Ask me about Autonomous drifting research or Drone Autonomy Project
-- ⚡ Fun fact: I am really into Astrophotography, climbing and skiing!
-- 📫 How to reach me: feel free to [email](mailto:ramimouro@gmail.com) me!
+- 📫 How to reach me: feel free to [Gmail Badge](mailto:ramimouro@gmail.com) me!
 - Buy me a beer / coffee https://buymeacoffee.com/ramalamadingdon
+- 🔭 I’m currently working on AI applications on world class hardware :) reach out to learn more
 
-Check out my [LinkedIn](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
+Check out my [Linkedin Badge](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
 <!--
 **ramalamadingdong/ramalamadingdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
