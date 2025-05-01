@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: feel free to [Gmail](mailto:ramimouro@gmail.com) me!
-- Buy me a beer / coffee https://buymeacoffee.com/ramalamadingdon
 - 🔭 I’m currently working on AI applications on world class hardware :) reach out to learn more
+- Buy me a beer / coffee https://buymeacoffee.com/ramalamadingdon
 
 Check out my [Linkedin](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
 <!--
