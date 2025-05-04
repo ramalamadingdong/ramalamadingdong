@@ -1,9 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: feel free to [Gmail](mailto:ramimouro@gmail.com) me!
-- 🔭 I’m currently working on AI applications on world class hardware :) reach out to learn more
-- Buy me a beer / coffee https://buymeacoffee.com/ramalamadingdon
-
-Check out my [Linkedin](https://www.linkedin.com/in/rami-mouro/) where you can find my Resume :D 
+Check out my [Linkedin](https://www.linkedin.com/in/rami-mouro/)
 <!--
 **ramalamadingdong/ramalamadingdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
